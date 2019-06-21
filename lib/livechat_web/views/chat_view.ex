@@ -1,3 +1,3 @@
 defmodule LivechatWeb.ChatView do
-  use LiveChatWeb, :view
+  use LivechatWeb, :view
 end
